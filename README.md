@@ -1,4 +1,4 @@
-## Hi there 👋
+My name is German Juarez, a data science student who loves storytelling. I was drawn to data science through hands-on projects like building predictive models for NBA player stats and quantifying the increasing wealth gap in the U.S. This has all showed me how data can be used to tell compelling stories and predict future outcomes. I'm excited to use my degree to contribute to better outcomes in the world
 
 <!--
 **Germjuar/Germjuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
